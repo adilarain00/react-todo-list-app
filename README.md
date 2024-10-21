@@ -2,6 +2,8 @@
 
 <img src="./public/TodoList.PNG" style="height: 70%; width: 100%; border-radius: 10px" />
 
+## Live Demo: https://adilarain00.github.io/React-Todo-List-App/
+
 ### Description
 
 This Todo List app, built with React.js Todo List app that lets users manage tasks with ease features a sleek and responsive design. With beautiful colors and a well-structured codebase, it's a perfect tool for managing daily tasks. It allows users to easily add, delete, and mark tasks as completed.
