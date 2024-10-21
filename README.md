@@ -2,7 +2,7 @@
 
 <img src="./public/TodoList.PNG" style="height: 70%; width: 100%; border-radius: 10px" />
 
-## Live Demo: https://adilarain00.github.io/React-Todo-List-App/
+### Live Demo: https://adilarain00.github.io/React-Todo-List-App/
 
 ### Description
 
